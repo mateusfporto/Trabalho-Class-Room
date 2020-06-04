@@ -7,7 +7,7 @@ int main () {
  float totalfinal,cont=0;float descont,totalpagar;
  char resposta,resposta2;
  printf("Mateus Ferreira Porto\n");
- printf("mateusfporto@hotmail.com.br");
+ printf("mateusfporto5@gmail.com");
  //categorias
  do
  {
